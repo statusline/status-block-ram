@@ -1,0 +1,9 @@
+{
+  "name": "statusline-block-ram",
+  "version": "1.0.0",
+  "description": "RAM block for statusline",
+  "main": "index.js",
+  "repository": "https://github.com/statusline/statusline-block-ram/",
+  "author": "nemanjan00",
+  "license": "MIT"
+}
